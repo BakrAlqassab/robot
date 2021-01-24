@@ -90,7 +90,7 @@ h1 {
 
 .left_leg {
   margin-left: 45px;
-  background-color: rgb(7, 36, 197);
+  /* background-color: rgb(7, 36, 197); */
 }
 
 .left_leg:hover {
